@@ -34,7 +34,7 @@ lerna exec \
     --scope @alfalab/core-components-themes \
     -- $copy_to_root
 
-ls dist
+ls dist/themes
 
 # копирую package.json в сборку корневого пакета
 cp package.json dist/package.json
