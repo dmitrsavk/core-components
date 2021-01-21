@@ -2,76 +2,17 @@
 # yarn lockfile v1
 
 
-"@alfalab/core-components-form-control@3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-form-control/-/core-components-form-control-3.1.1.tgz#6000a300ac58dc0e493e52cac393b26016cfae49"
-  integrity sha512-oFeWbSMQOhPOK7nB0ZNnkdeXh+/rtMN8Cg81jVim+FOVE7L9hv5bRfbsgiZbOHh4xVwymyvJk+FWtjILnin8Kw==
-  dependencies:
-    classnames "^2.2.6"
-
-"@alfalab/core-components-form-control@^3.1.5":
-  version "3.1.5"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-form-control/-/core-components-form-control-3.1.5.tgz#c064abf1ad4a1f71b75206e7d40d4935e4098b58"
-  integrity sha512-ZDx5k5TVKKYQL1Q9Ar7kL5xcROxKT/Xes3RiWbcdVBQulJmvyk0bwTHxNaUDYhIwWRGaYEZiIxkPmPneFrxKuw==
-  dependencies:
-    classnames "^2.2.6"
-
-"@alfalab/core-components-input@^3.2.2":
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-input/-/core-components-input-3.2.2.tgz#04bf0f52b6a8faccf778218861064369376c40df"
-  integrity sha512-1LMCCX50ia2MQpcAcifQJsca6fVel+/heITmSSNzmSPEjffw57f3rTFhNCAN2LQfwJg5B2nW0lj0TiFfzWMJgw==
-  dependencies:
-    "@alfalab/core-components-button" "^1.10.0"
-    "@alfalab/core-components-form-control" "^3.1.5"
-    "@alfalab/hooks" "^1.0.0"
-    "@alfalab/icons-glyph" "^1.26.0"
-    classnames "^2.2.6"
-    react-merge-refs "^1.1.0"
-
-"@alfalab/core-components-mq@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-mq/-/core-components-mq-1.0.0.tgz#7bb1eb6651962178d05b63afb5cf65cf14156a49"
-  integrity sha512-8IzpRffooGggKdfIU82I5kv1mmlIE7u/PYLsjABINJ24+QI49WBHeGM4Rz7GnP+dVfBGxPWSaWMWSrzaUNdCyQ==
-
-"@alfalab/core-components-select@^4.3.1":
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-select/-/core-components-select-4.4.0.tgz#a38b74b29cebe726013199ce33d7521bec87f6b1"
-  integrity sha512-y7SmH85mHhtylBiwaZoEfmqFnkWYNj3IpO8ihMJmfi0Qysbi/sS5uF3jbRm78elZTvfJhB9OuEXE9/bf9GUUAA==
-  dependencies:
-    "@alfalab/core-components-form-control" "^3.1.5"
-    "@alfalab/core-components-input" "^3.2.2"
-    "@alfalab/core-components-popover" "^1.3.1"
-    "@alfalab/hooks" "^1.0.0"
-    classnames "^2.2.6"
-    downshift "5.4.7"
-    react-merge-refs "^1.1.0"
-    react-virtual "^2.2.0"
-
-"@alfalab/core-components-tag@1.6.4":
-  version "1.6.4"
-  resolved "https://registry.yarnpkg.com/@alfalab/core-components-tag/-/core-components-tag-1.6.4.tgz#4974856e355fe48aaf6b2a80fe6ca67ff12c8101"
-  integrity sha512-IamOgzXbYboP8CjZ7SztvfVkGw1SAGG0Glw5GqZBYJ/zB1aQvaOm4ZOZ4cZpm6rFcilPcAcFbbgqWNYpbXSOOw==
-  dependencies:
-    "@alfalab/hooks" "^1.0.0"
-    classnames "^2.2.6"
-    react-merge-refs "^1.1.0"
-
 "@alfalab/data@^0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@alfalab/data/-/data-0.2.0.tgz#4956618252d0eb754652ec20554ff71292578add"
   integrity sha512-so5/YttRoIvaulQincuwpensE4zmC9nSRdD2ikCgo6nhyZs6vPB4o7VNhvBcMddrvPOiXRYLerCU+J98GPe22Q==
-
-"@alfalab/hooks@0.9.0", "@alfalab/hooks@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@alfalab/hooks/-/hooks-0.9.0.tgz#cc1258698011e1d929d9154e87cba573689babad"
-  integrity sha512-2YGUfBpZ8omADxvn5oXA0zwDMLINg5AvCx1nCrJNSLbiekpP/jk8F2rcVjN0OKgY9OKUOgMaGZZ3keDtsvVCIA==
 
 "@alfalab/hooks@^1.0.0":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@alfalab/hooks/-/hooks-1.1.1.tgz#c61e839983cb915e2e4de730bf9c9b0f1c0aea45"
   integrity sha512-4NBh/BzFE/W7Wxgxa0SByodjpDgUQT5RHzc/9wLbMlhljpo+S145mavFdtK+YcJ2Sg4GK6OZon61KqV5w7Nafw==
 
-"@alfalab/icons-classic@^1.39.0", "@alfalab/icons-classic@^1.7.0":
+"@alfalab/icons-classic@^1.39.0":
   version "1.43.0"
   resolved "https://registry.yarnpkg.com/@alfalab/icons-classic/-/icons-classic-1.43.0.tgz#c26df73436e2e97f6572283c95ab44f8280e8601"
   integrity sha512-SqnpPxrtp50A1zYcGf6IZcl7Da2AF1Ol1z2HsapM7XOAAc3uObLtdfk02vk+kw/+fECrTVnDexhp8bLfq4lnzA==
@@ -81,17 +22,12 @@
   resolved "https://registry.yarnpkg.com/@alfalab/icons-flag/-/icons-flag-1.3.0.tgz#edd1b82a92954ed5339d51083d83ec41f7ff77fb"
   integrity sha512-kvVrwjKw6TZfbr9xaK7/e/QtkOAT5HzsWTI2rtvrIp0tzwnkQzp1cCHsiX/mt6h+YOixWfDGYbYEL2RKHFrBaw==
 
-"@alfalab/icons-glyph@1.70.0":
-  version "1.70.0"
-  resolved "https://registry.yarnpkg.com/@alfalab/icons-glyph/-/icons-glyph-1.70.0.tgz#251896a5300f2dbcf5c703ae70a23c87cc13e757"
-  integrity sha512-J+9rGbRfm1EmQp5+wq5IBnG5+qJlq635CAmwCpHY22jR3v4tFx0At91rT6Eju/ArHJe1QkCptjANQLmAqD5NxQ==
-
-"@alfalab/icons-glyph@^1.26.0", "@alfalab/icons-glyph@^1.70.0", "@alfalab/icons-glyph@^1.71.0", "@alfalab/icons-glyph@^1.80.0":
+"@alfalab/icons-glyph@^1.80.0":
   version "1.85.0"
   resolved "https://registry.yarnpkg.com/@alfalab/icons-glyph/-/icons-glyph-1.85.0.tgz#a427d58d96d8332d69ebbb1d8f775d6fedffc1b1"
   integrity sha512-djjNmljT6J4EmdAuh2s9SQOXAFUki1tjEJBL43tCin9VP315m2KXmrcTje/SMqhq/2YBoj2wvhl33/7VndUTTg==
 
-"@alfalab/icons-logotype@^1.4.0", "@alfalab/icons-logotype@^1.8.0":
+"@alfalab/icons-logotype@^1.8.0":
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/@alfalab/icons-logotype/-/icons-logotype-1.8.0.tgz#b81e4aa24767172af498043688c0bd853e3e743f"
   integrity sha512-+KezJJRVQefF1vooTWgMf+kHm6MtWHf5egOhkHVmh8Js5OpPUlwZcrsEeAxAjs+1aoX/ZOglzhhMyTFPbZjxMw==
@@ -120,11 +56,6 @@
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@alfalab/stylelint-core-vars/-/stylelint-core-vars-0.0.4.tgz#f9ba0ea20b8a2d77646d3a65b34631659d6073ea"
   integrity sha512-KMaN6A4QGwLDeD5aVTPl6zozDUPgB5WeumcWib4zdzv7zfnFtOnUFfpyLguFXCi9geg4/gC2hf4MCNH8uNe8Dg==
-
-"@alfalab/utils@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@alfalab/utils/-/utils-0.4.1.tgz#b914e45591b98dcaf59c553d48cb1c92f640aa62"
-  integrity sha512-yu0xPluUa1zbv4UlNCReNHZCNLrevTqRQ7rUW8hkpiKw/pL3Wn9JgFwgZPFS0VkiReTaL9D7eP7xHcjjzCMj+Q==
 
 "@alfalab/utils@^0.5.0":
   version "0.5.0"
@@ -4096,13 +4027,6 @@
   version "4.3.5"
   resolved "https://registry.yarnpkg.com/@types/react-textarea-autosize/-/react-textarea-autosize-4.3.5.tgz#6c4d2753fa1864c98c0b2b517f67bb1f6e4c46de"
   integrity sha512-PiDL83kPMTolyZAWW3lyzO6ktooTb9tFTntVy7CA83/qFLWKLJ5bLeRboy6J6j3b1e8h2Eec6gBTEOOJRjV14A==
-  dependencies:
-    "@types/react" "*"
-
-"@types/react-transition-group@4.4.0", "@types/react-transition-group@^4.2.4":
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/@types/react-transition-group/-/react-transition-group-4.4.0.tgz#882839db465df1320e4753e6e9f70ca7e9b4d46d"
-  integrity sha512-/QfLHGpu+2fQOqQaXh8MG9q03bFENooTb/it4jr5kKaZlDQfWvjqWZg48AwzPVMBHlRuTRAY7hRHCEOXz5kV6w==
   dependencies:
     "@types/react" "*"
 
@@ -18008,11 +17932,6 @@ react-dev-utils@^9.0.0:
     sockjs-client "1.4.0"
     strip-ansi "5.2.0"
     text-table "0.2.0"
-
-react-div-100vh@0.5.6:
-  version "0.5.6"
-  resolved "https://registry.yarnpkg.com/react-div-100vh/-/react-div-100vh-0.5.6.tgz#1d73866e96379433dea066d3e55026efd77f4b29"
-  integrity sha512-foNzJeBwiWp2Xs+pDhKyX2sP9O8UoGfYyz/D+GgZaHCKS3R+lbtJc8OdgMDr03txXgPVsxGEtmjKeDcLW30xwQ==
 
 react-docgen-typescript-loader@^3.6.0:
   version "3.7.2"
